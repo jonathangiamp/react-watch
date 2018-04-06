@@ -1,5 +1,5 @@
 # React Watch
 
-[Demo here](https://montre-projet-nkpkzhlwbg.now.sh/)
+An analog and digital watch made with React.
 
-*Demonstrations are hosted on [zeit now](https://zeit.co/now) their loading can be long.*
+Demo: [React Watch](https://jonathangiamp.github.io/react-watch/)
