@@ -2,8 +2,8 @@ module.exports = {
 	"parserOptions": {
 			 "ecmaVersion": 6,
 			 "ecmaFeatures": {
-            "impliedStrict": true
-        }
+						"impliedStrict": true
+				}
 	 },
 	"globals": {
 		"SC": true,
